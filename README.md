@@ -3,10 +3,10 @@ UI testing application to test web shop using selenide framework.
 <p>
 Testing:
 <p>
-login/logout
+• login/logout
 <p>
-search
+• search
 <p>
-cart
+• cart
 <p>
-user profile
+• user profile
